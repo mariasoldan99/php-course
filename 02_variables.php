@@ -15,7 +15,7 @@
 */
 
 // 1. Declare variables
-$name = "Zura";
+$name = "Maria";
 $age = 28;
 $isMale = true; // 3. Change into false
 $height = 1.85;

@@ -1,0 +1,20 @@
+{
+    "name": "maria/16_autoloading",
+    "autoload": {
+        "psr-4": {
+            "Maria\\16Autoloading\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MariaS",
+            "email": "m.soldan99@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\": "./app"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "My todo": {
+        "completed": false
+    },
+    "My todo1": {
+        "completed": true
+    },
+    "My todo2": {
+        "completed": true
+    },
+    "My todo4": {
+        "completed": false
+    },
+    "My todo5": {
+        "completed": false
+    },
+    "My todo6": {
+        "completed": false
+    }
+}
